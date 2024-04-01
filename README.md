@@ -12,11 +12,13 @@
 ### 프로젝트 기간
 2023.08.20 ~ 2023.09.1 (약 2주)
 
+
 ### Front-End Developers
 - [배정완(Product manager)], [김슬기]
 
 ### Back-End Developers
 - [방수영(Project manager)], [조승연], [김현정]
+
 
 ## STACK
 
@@ -24,7 +26,7 @@
 
 |JavaScript|React|Sass|esLint|Prettier|
 | :--: | :--: | :--: | :--: | :--: |
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /></div> | <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /> |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" /></div> | <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /> |
 
 ### Back-End
 
@@ -53,9 +55,9 @@
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 |      <div align="center">인트로(로그인) 페이지   </div>          | <img src = "" width = "400px"> | -프론트엔드: 배정완 <br> -백엔드: 조승연        |
 | <div align="center">회원가입 페이지   </div>                | <img src ="" width = "400px"> | -프론트엔드: 배정완, 장찬영 <br> -백엔드: 조승연        |
-| <div align="center">메인 페이지   </div>               | <img src ="" width = "400px"> | -프론트엔드: 배정완 <br> -백엔드: 조승연        |
+| <div align="center">메인 페이지   </div>               | <img src ="" width = "400px"> | -프론트엔드: 배정완 <br> -백엔드: 조승연, 김현정        |
 | <div align="center">상세 페이지   </div>                 | <img src = "" width = "400px"> | -프론트엔드: 김슬기 <br> -백엔드: 김현정, 방수영        |
-| <div align="center">장바구니, 결제 페이지   </div>           | <img src = "" width = "400px"> | -프론트엔드: 김슬기 <br> -백엔드: 방수영         |
+| <div align="center">장바구니, 결제 페이지   </div>           | <img src = "" width = "400px"> | -프론트엔드: 김슬기 <br> -백엔드: 김현정, 방수영          |
 
 
 # 📌 구현 사항 설명
