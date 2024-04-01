@@ -64,10 +64,11 @@
 
 | 사이트                 | 구현 모습                                                                                                                           | 담당 개발자                           |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-|      <div align="center">로그인/회원가입 페이지   </div>          | <img src = "https://github.com/wan0514/wanted-preonboarding/assets/77326740/69daec1a-d357-4514-8207-38790f5e535c" width = "400px"> | -프론트엔드: 배정완 <br> -백엔드: 조승연        |
-| <div align="center">메인 페이지   </div>               | <img src ="https://github.com/wan0514/wanted-preonboarding/assets/77326740/9321fb3d-52aa-4b43-a277-32f4e805b210" width = "400px"> | -프론트엔드: 배정완 <br> -백엔드: 조승연, 김현정        |
-| <div align="center">상세 페이지   </div>                 | <img src = "https://github.com/wan0514/wanted-preonboarding/assets/77326740/c0667798-14c0-4ebe-ac2a-1a3120e62678" width = "400px"> | -프론트엔드: 김슬기 <br> -백엔드: 김현정, 방수영        |
-| <div align="center">장바구니, 결제 페이지   </div>           | <img src = "https://github.com/wan0514/wanted-preonboarding/assets/77326740/43f5d183-3652-4069-8d0e-a62b7deb0ced" width = "400px"> | -프론트엔드: 김슬기 <br> -백엔드: 김현정, 방수영          |
+|      <div align="center">로그인 페이지   </div>          | <img src = "https://github.com/wan0514/images/assets/77326740/dc1a286b-ac40-46a1-a90a-e22e520fe0f3" width = "400px"> | -프론트엔드: 배정완 <br> -백엔드: 조승연        |
+|      <div align="center">회원가입 페이지   </div>          | <img src = "https://github.com/wan0514/images/assets/77326740/1e99d247-c20c-4dbe-92c8-4613dee21cd9" width = "400px"> | -프론트엔드: 배정완 <br> -백엔드: 조승연        |
+| <div align="center">메인 페이지   </div>               | <img src ="https://github.com/wan0514/images/assets/77326740/27d7aa35-08a5-4d56-93fe-a3c6f76ea919" width = "400px"> | -프론트엔드: 배정완 <br> -백엔드: 조승연, 김현정        |
+| <div align="center">상세 페이지   </div>                 | <img src = "https://github.com/wan0514/images/assets/77326740/d4dc0fc2-a5bb-47a6-8caf-485510f9230d" width = "400px"> | -프론트엔드: 김슬기 <br> -백엔드: 김현정, 방수영        |
+| <div align="center">장바구니, 결제 페이지   </div>           | <img src = "https://github.com/wan0514/images/assets/77326740/9aba3563-6ba5-4db6-b2ee-57d7173c5a4e" width = "400px"> | -프론트엔드: 김슬기 <br> -백엔드: 김현정, 방수영          |
 
 
 # 📌 구현 사항 설명
